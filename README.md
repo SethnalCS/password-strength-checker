@@ -9,7 +9,7 @@ Weak passwords are one of the most common causes of security breaches. This proj
 ## Features
 - Minimum length check
 - Uppercase and lowercase character detection
-- Numeric and symbol detectrion
+- Numeric and symbol detection
 - Password strength rating
 
 ## Technologies Used
@@ -17,7 +17,7 @@ Weak passwords are one of the most common causes of security breaches. This proj
 
 ## How to Run
 1. Ensure Python is installed.
-2. Run 'python main.py'
+2. Run `python main.py`
 3. Enter a password when prompted.
 
 ## Ethical Considerations
