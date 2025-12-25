@@ -24,4 +24,12 @@ Weak passwords are one of the most common causes of security breaches. This proj
 This project is for educational purposes only and does not store or transmit passwords.
 
 ## What I learned
-....
+- How password policies reduce brute-force attack success
+- How to validate user input securely
+- Why length alone is not sufficient for password strength
+- How to structure Python code using functions
+
+## Possible Improvements
+- Entropy-based scoring instead of rule counting
+- Password hashing simulation (bcrypt)
+- GUI or web interface
